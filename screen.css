@@ -51,11 +51,14 @@ table {
 
 html {
   padding: .5em;
+  background-image: linear-gradient(to right, lightgreen, lightblue);
+  font-family: 'Ubuntu', sans-serif;
 }
 
 h1 {
   font-size: 2em;
   padding-bottom: .25em;
+  font-weight: bold;
 }
 
 p {
