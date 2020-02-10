@@ -14,23 +14,20 @@ html {
 
 h1 {
   font-size: 2em;
-  padding-bottom: .25em;
+  padding-bottom: 1em;
   font-weight: bold;
+  text-align: center;
 }
 
 p {
   padding-bottom: 1.5em;
 }
 
-.rotate {
-  /*taken from URL: https://www.computerhope.com/issues/ch001784.htm*/
-  -webkit-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  transform: rotate(90deg);
+img {
+  width: 200px;
+  height: 200px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 2em;
+  padding-bottom: 1.5em;
 }
